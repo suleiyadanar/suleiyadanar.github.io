@@ -327,6 +327,7 @@ section{
     background-color: #a9b79d;
 }
 .submitBtn{
+    color:#000;
     background-color: white;
     border-radius: 10px;
     border:1px #e6cccc solid;
